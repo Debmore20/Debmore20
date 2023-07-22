@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript and C#
 - 🌱 I’m currently learning React/Next.js
 - 💞️ I’m looking to collaborate on building large scale apps
-- 📫 How to reach me adebolamorebise@gmail.com
+- 📫 reach me adebolamorebise@gmail.com
 
 <!---
 Debmore20/Debmore20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
