@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tobi
-- 👀 I’m program in Javascript, Typescript and C#
-- 🌱 I’m specialize in React/Next.js
-- 💞️ I’m looking to collaborate on building large scale apps
-- 📫 reach me adebolamorebise@gmail.com
+- 👨🏾‍💻 I program in Javascript, Typescript and C#
+- 🌱 I specialize in React/Next.js
+- 🌎 I’m looking forward to collaborating on building large scale apps
+- 📫 reach me @ adebolamorebise@gmail.com
 
 <!---
 Debmore20/Debmore20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
